@@ -8,15 +8,11 @@ layout:
   tag: Tag
 
 tabs:
-  # format: <filename_without_extension>: <value>
   home: Home
   about: About
   portfolio: Portfolio
   archives: Archives
-  # shop: Merch
-  # sponsor: Sponsor
 
-# the text displayed in the search bar & search results
 search:
   hint: search
   cancel: Cancel
