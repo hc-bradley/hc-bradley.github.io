@@ -7,15 +7,12 @@ layout:
   category: Category
   tag: Tag
 
-# The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
   home: Home
   about: About
   portfolio: Portfolio
   archives: Archives
-  categories: Categories
-  tags: Tags
   # shop: Merch
   # sponsor: Sponsor
 
