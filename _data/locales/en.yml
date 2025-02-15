@@ -12,8 +12,6 @@ tabs:
   about: About
   portfolio: Portfolio
   archives: Archives
-  categories: Categories
-  tags: Tags
 
 search:
   hint: search
@@ -38,7 +36,7 @@ copyright:
     Except where otherwise noted, the blog posts on this site are licensed
     under the Creative Commons Attribution 4.0 International (CC BY 4.0) License by the author.
 
-meta: "🤝 Help keep this ad-free! &nbsp; &nbsp;🛍️ Check out the new merch shop!" # remove footer without replacing template
+meta: "🤝 Help keep this ad-free! &nbsp; &nbsp;🛍️ Check out the new merch!" # remove footer without replacing template
 
 not_found:
   statment: Sorry, we've misplaced that URL or it's pointing to something that doesn't exist.
