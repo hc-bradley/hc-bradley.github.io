@@ -12,6 +12,8 @@ tabs:
   about: About
   portfolio: Portfolio
   archives: Archives
+  categories: Categories
+  tags: Tags
 
 search:
   hint: search
