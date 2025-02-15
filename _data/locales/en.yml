@@ -14,8 +14,8 @@ tabs:
   about: About
   portfolio: Portfolio
   archives: Archives
-  # categories: Categories
-  # tags: Tags
+  categories: Categories
+  tags: Tags
   # shop: Merch
   # sponsor: Sponsor
 
