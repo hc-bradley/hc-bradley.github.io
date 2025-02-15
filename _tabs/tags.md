@@ -1,5 +1,5 @@
 ---
-layout: none
+layout: hidden
 icon: fas fa-tags
 order: 
 ---
